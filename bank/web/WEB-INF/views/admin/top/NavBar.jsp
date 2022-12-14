@@ -26,7 +26,7 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><hr class="dropdown-divider">대출</li>
-            <li><a class="dropdown-item" href="#">대출자 목록</a></li>
+            <li><a class="dropdown-item" href="upsMemberList">대출자 목록</a></li>
             <li><hr class="dropdown-divider">투자</li>
             <li><a class="dropdown-item" href="#">투자자 목록</a></li>
             <li><hr class="dropdown-divider">상품</li>
